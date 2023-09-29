@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Ola Sokołek -- Software Developer -- https://www.linkedin.com/in/olasokolek/
+
+
+# TECHNOLOGY COLOPHON
+
+    JavaScript, CSS3, HTML5
+    Modernizr, Normalize.css
